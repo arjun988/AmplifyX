@@ -1,0 +1,32 @@
+# Python bytecode files
+*.py[cod]
+
+# Virtual environment folder
+venv/
+env/
+.venv/
+
+# Flask specific
+instance/
+*.db
+*.sqlite3
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# PyCharm / IntelliJ
+.idea/
+
+# VSCode
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
